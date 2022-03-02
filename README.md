@@ -1,5 +1,4 @@
 
-![](
 # Talk-A-Tive
 
 Talk-a-tive is a Full Stack Chatting App.
@@ -27,15 +26,14 @@ https://talk-a-tive.herokuapp.com/
 ![](https://github.com/Ldass2000/Talk_a_Tive/blob/main/ChatMe/screenshots/signup.PNG)
 ## Made By
 
-- [@Lalu_kumar](https://github.com/piyush-eon)
+- [@Lalu_kumar](https://github.com/Ldass2000)
 
-  )
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/Ldass2000/Talk_a_Tive
 ```
 
 Go to the project directory
